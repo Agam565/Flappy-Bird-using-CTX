@@ -1,0 +1,24 @@
+/*body{
+background-color:red;
+}*/
+body{
+background-color:lightgreen;
+}
+#canvas1{
+/*background-color: blue;
+background-image: url("bg.png");*/
+position:absolute;
+top:50%;
+left:50%;
+transform: translate(-50%,-50%);
+width:600px;
+height:400px;
+border: 2px solid black;
+}
+h1{
+position: relative;
+color:black;
+font-family:"verdana";
+text-align:center;
+top:40px;
+}
